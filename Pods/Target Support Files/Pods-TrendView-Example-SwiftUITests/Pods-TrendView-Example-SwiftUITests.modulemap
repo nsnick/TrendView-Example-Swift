@@ -1,0 +1,6 @@
+framework module Pods_TrendView_Example_SwiftUITests {
+  umbrella header "Pods-TrendView-Example-SwiftUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

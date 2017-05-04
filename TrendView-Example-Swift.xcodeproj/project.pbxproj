@@ -14,6 +14,9 @@
 		5B9B9C481EBBA1F200B3FF20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B9B9C461EBBA1F200B3FF20 /* LaunchScreen.storyboard */; };
 		5B9B9C531EBBA1F200B3FF20 /* TrendView_Example_SwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B9B9C521EBBA1F200B3FF20 /* TrendView_Example_SwiftTests.swift */; };
 		5B9B9C5E1EBBA1F200B3FF20 /* TrendView_Example_SwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B9B9C5D1EBBA1F200B3FF20 /* TrendView_Example_SwiftUITests.swift */; };
+		620DB16F856FACED706E9E87 /* Pods_TrendView_Example_SwiftUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C51552AE25580CD6DFD18BB6 /* Pods_TrendView_Example_SwiftUITests.framework */; };
+		7B78E0FF4310F9AE991F59F0 /* Pods_TrendView_Example_SwiftTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D0F191D08E762127C817B84E /* Pods_TrendView_Example_SwiftTests.framework */; };
+		9EF763111C31589E75A32F4A /* Pods_TrendView_Example_Swift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F64E7D7C07934A45432B5C36 /* Pods_TrendView_Example_Swift.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2B35EE1822A856ED92B15BEC /* Pods-TrendView-Example-SwiftUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrendView-Example-SwiftUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TrendView-Example-SwiftUITests/Pods-TrendView-Example-SwiftUITests.release.xcconfig"; sourceTree = "<group>"; };
+		4DD77A18358ADCD3E5173989 /* Pods-TrendView-Example-Swift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrendView-Example-Swift.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TrendView-Example-Swift/Pods-TrendView-Example-Swift.debug.xcconfig"; sourceTree = "<group>"; };
 		5B9B9C3A1EBBA1F200B3FF20 /* TrendView-Example-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TrendView-Example-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B9B9C3D1EBBA1F200B3FF20 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5B9B9C3F1EBBA1F200B3FF20 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +52,13 @@
 		5B9B9C591EBBA1F200B3FF20 /* TrendView-Example-SwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "TrendView-Example-SwiftUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B9B9C5D1EBBA1F200B3FF20 /* TrendView_Example_SwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendView_Example_SwiftUITests.swift; sourceTree = "<group>"; };
 		5B9B9C5F1EBBA1F200B3FF20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A75F3BDD98D7C8EF393A05AF /* Pods-TrendView-Example-SwiftUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrendView-Example-SwiftUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TrendView-Example-SwiftUITests/Pods-TrendView-Example-SwiftUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		B4D949E25F010B6F4005A9EB /* Pods-TrendView-Example-SwiftTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrendView-Example-SwiftTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TrendView-Example-SwiftTests/Pods-TrendView-Example-SwiftTests.debug.xcconfig"; sourceTree = "<group>"; };
+		C51552AE25580CD6DFD18BB6 /* Pods_TrendView_Example_SwiftUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TrendView_Example_SwiftUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C6820FA50D2E7860536C884A /* Pods-TrendView-Example-Swift.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrendView-Example-Swift.release.xcconfig"; path = "Pods/Target Support Files/Pods-TrendView-Example-Swift/Pods-TrendView-Example-Swift.release.xcconfig"; sourceTree = "<group>"; };
+		D0F191D08E762127C817B84E /* Pods_TrendView_Example_SwiftTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TrendView_Example_SwiftTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E5F3232BD7DE1101F5539E04 /* Pods-TrendView-Example-SwiftTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TrendView-Example-SwiftTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TrendView-Example-SwiftTests/Pods-TrendView-Example-SwiftTests.release.xcconfig"; sourceTree = "<group>"; };
+		F64E7D7C07934A45432B5C36 /* Pods_TrendView_Example_Swift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TrendView_Example_Swift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +66,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9EF763111C31589E75A32F4A /* Pods_TrendView_Example_Swift.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B78E0FF4310F9AE991F59F0 /* Pods_TrendView_Example_SwiftTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,6 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				620DB16F856FACED706E9E87 /* Pods_TrendView_Example_SwiftUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +96,8 @@
 				5B9B9C511EBBA1F200B3FF20 /* TrendView-Example-SwiftTests */,
 				5B9B9C5C1EBBA1F200B3FF20 /* TrendView-Example-SwiftUITests */,
 				5B9B9C3B1EBBA1F200B3FF20 /* Products */,
+				F4D06225B9ECB923FCB5DF68 /* Pods */,
+				ACFE33C9A6FCA6CDA9C65204 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,6 +142,29 @@
 			path = "TrendView-Example-SwiftUITests";
 			sourceTree = "<group>";
 		};
+		ACFE33C9A6FCA6CDA9C65204 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F64E7D7C07934A45432B5C36 /* Pods_TrendView_Example_Swift.framework */,
+				D0F191D08E762127C817B84E /* Pods_TrendView_Example_SwiftTests.framework */,
+				C51552AE25580CD6DFD18BB6 /* Pods_TrendView_Example_SwiftUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F4D06225B9ECB923FCB5DF68 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				4DD77A18358ADCD3E5173989 /* Pods-TrendView-Example-Swift.debug.xcconfig */,
+				C6820FA50D2E7860536C884A /* Pods-TrendView-Example-Swift.release.xcconfig */,
+				B4D949E25F010B6F4005A9EB /* Pods-TrendView-Example-SwiftTests.debug.xcconfig */,
+				E5F3232BD7DE1101F5539E04 /* Pods-TrendView-Example-SwiftTests.release.xcconfig */,
+				A75F3BDD98D7C8EF393A05AF /* Pods-TrendView-Example-SwiftUITests.debug.xcconfig */,
+				2B35EE1822A856ED92B15BEC /* Pods-TrendView-Example-SwiftUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +172,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5B9B9C621EBBA1F200B3FF20 /* Build configuration list for PBXNativeTarget "TrendView-Example-Swift" */;
 			buildPhases = (
+				7BD86CBF8F74151F35FAFAF8 /* [CP] Check Pods Manifest.lock */,
 				5B9B9C361EBBA1F200B3FF20 /* Sources */,
 				5B9B9C371EBBA1F200B3FF20 /* Frameworks */,
 				5B9B9C381EBBA1F200B3FF20 /* Resources */,
+				82D612D5CD285C3B42B8D665 /* [CP] Embed Pods Frameworks */,
+				D012A75158DDAB00BD7829F8 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -149,9 +192,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5B9B9C651EBBA1F200B3FF20 /* Build configuration list for PBXNativeTarget "TrendView-Example-SwiftTests" */;
 			buildPhases = (
+				A6142ACD45C610100AC41BB9 /* [CP] Check Pods Manifest.lock */,
 				5B9B9C4A1EBBA1F200B3FF20 /* Sources */,
 				5B9B9C4B1EBBA1F200B3FF20 /* Frameworks */,
 				5B9B9C4C1EBBA1F200B3FF20 /* Resources */,
+				30BCAD84E129EE8821CA129C /* [CP] Embed Pods Frameworks */,
+				E54C8FA4318F4FA1A72D91E8 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -167,9 +213,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5B9B9C681EBBA1F200B3FF20 /* Build configuration list for PBXNativeTarget "TrendView-Example-SwiftUITests" */;
 			buildPhases = (
+				2458524E75186846E93693FB /* [CP] Check Pods Manifest.lock */,
 				5B9B9C551EBBA1F200B3FF20 /* Sources */,
 				5B9B9C561EBBA1F200B3FF20 /* Frameworks */,
 				5B9B9C571EBBA1F200B3FF20 /* Resources */,
+				F84BD2D502232AF4254AE0D2 /* [CP] Embed Pods Frameworks */,
+				F9A572B548A0B03664BAE347 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -256,6 +305,144 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		2458524E75186846E93693FB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		30BCAD84E129EE8821CA129C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TrendView-Example-SwiftTests/Pods-TrendView-Example-SwiftTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7BD86CBF8F74151F35FAFAF8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		82D612D5CD285C3B42B8D665 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TrendView-Example-Swift/Pods-TrendView-Example-Swift-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A6142ACD45C610100AC41BB9 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D012A75158DDAB00BD7829F8 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TrendView-Example-Swift/Pods-TrendView-Example-Swift-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E54C8FA4318F4FA1A72D91E8 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TrendView-Example-SwiftTests/Pods-TrendView-Example-SwiftTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F84BD2D502232AF4254AE0D2 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TrendView-Example-SwiftUITests/Pods-TrendView-Example-SwiftUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F9A572B548A0B03664BAE347 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TrendView-Example-SwiftUITests/Pods-TrendView-Example-SwiftUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		5B9B9C361EBBA1F200B3FF20 /* Sources */ = {
@@ -415,6 +602,7 @@
 		};
 		5B9B9C631EBBA1F200B3FF20 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4DD77A18358ADCD3E5173989 /* Pods-TrendView-Example-Swift.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 6JYYU24LA8;
@@ -428,6 +616,7 @@
 		};
 		5B9B9C641EBBA1F200B3FF20 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C6820FA50D2E7860536C884A /* Pods-TrendView-Example-Swift.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 6JYYU24LA8;
@@ -441,6 +630,7 @@
 		};
 		5B9B9C661EBBA1F200B3FF20 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B4D949E25F010B6F4005A9EB /* Pods-TrendView-Example-SwiftTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -456,6 +646,7 @@
 		};
 		5B9B9C671EBBA1F200B3FF20 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E5F3232BD7DE1101F5539E04 /* Pods-TrendView-Example-SwiftTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -471,6 +662,7 @@
 		};
 		5B9B9C691EBBA1F200B3FF20 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A75F3BDD98D7C8EF393A05AF /* Pods-TrendView-Example-SwiftUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = 6JYYU24LA8;
@@ -485,6 +677,7 @@
 		};
 		5B9B9C6A1EBBA1F200B3FF20 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2B35EE1822A856ED92B15BEC /* Pods-TrendView-Example-SwiftUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = 6JYYU24LA8;
