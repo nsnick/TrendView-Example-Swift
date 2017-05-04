@@ -1,1 +1,1 @@
-[See TrendView Library]("https://github.com/nsnick/trendview")
+[See TrendView Library](https://github.com/nsnick/trendview)
