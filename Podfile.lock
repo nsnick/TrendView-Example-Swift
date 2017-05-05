@@ -1,11 +1,11 @@
 PODS:
-  - TrendView (0.2.0)
+  - TrendView (0.2.3)
 
 DEPENDENCIES:
   - TrendView (~> 0.2)
 
 SPEC CHECKSUMS:
-  TrendView: 6e9a9e723f04fd3874f950697d42ec8c737802fe
+  TrendView: ff49c141544a2cb826a6cbdf698b07f4777d4ae7
 
 PODFILE CHECKSUM: 958ae88e663468f093f41c337b2ddf30d225fc19
 
